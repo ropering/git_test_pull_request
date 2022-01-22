@@ -1,1 +1,1 @@
-print('Hello 동영, 명균!')
+print("없음")
